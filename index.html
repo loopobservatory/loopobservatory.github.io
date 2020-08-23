@@ -8,11 +8,21 @@
       <h1 style="color:lime;font-size:40px;" >Latest Interception from mars</h1>
       <a style="color:lime;" href="loopobservatory.github.io/mars-signal.mp3">Mars intercepted signal</a> 
       <br> </br>
-      <form action="/mars-signal.mp3">
-      <input style="color:blue;" placeholder="Type TOP SECRET code" type="text" id="code" name="code" value=""><br>
+      <!<form action="/mars-signal.mp3">>
+      <input style="color:blue;" placeholder="Type TOP SECRET code" type="text" id="code" name="code" ><br>
       <br>
       <button type="button" onclick="getInputValue();">Submit</button>
-     <! <input type="submit" value="Submit">>
+      <script>
+           function getInputValue(){
+               // Selecting the input element and get its value 
+               var inputVal = document.getElementById("code").value;
+
+               // Displaying the value
+               alert(inputVal);
+           }
+       </script
+         
+      <!<input onclick="getInputValue();" type="submit" value="Submit">>
       </form>
    </body>	
 </html>
