@@ -17,11 +17,14 @@
            function getInputValue(){
                // Selecting the input element and get its value 
                var inputVal = document.getElementById("code").value;
-               document.getElementById("signal-link").innerHTML = "Mars intercepted signal"
-
-               // Displaying the value
-               alert(inputVal);
-           }
+              if (inputVal == 1292) {
+                  
+                 document.getElementById("signal-link").innerHTML = "Mars intercepted signal"
+                 alert("Click on the link");
+                     }  
+              else {
+               alert("Wrong Code!!!");
+                  }
    </script>
          
       <!<input onclick="getInputValue();" type="submit" value="Submit">>
