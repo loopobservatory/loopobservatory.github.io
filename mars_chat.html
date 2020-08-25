@@ -3,7 +3,7 @@
        <title>Mars Signal Processing Service</title>
        
     </head>	
-    <body style="background-color:black;" >
+    <body  >
         <br> </br>
     <h1  style="color:lime;font-size:40px;text-align:center;" >Direct Communication with Mars</h1>
        
@@ -19,8 +19,25 @@
 <link rel="stylesheet" href="https://cdn.firebase.com/libs/firechat/3.0.1/firechat.min.css" />
 <script src="https://cdn.firebase.com/libs/firechat/3.0.1/firechat.min.js"></script>
 
+<script>
+  function login() {
+    // Log the user in via Twitter
+   var provider = new firebase.auth.TwitterAuthProvider();
+   firebase.auth().signInWithPopup(provider).catch(function(error) {
+      console.log("Error authenticating user:", error);
+    });
+  }
 
-    <a> jghghhtikgh </a>
+  firebase.auth().onAuthStateChanged(function(user) {
+    // Once authenticated, instantiate Firechat with the logged in user
+    if (user) {
+      initChat(user);
+    }
+  });
+</script>
+
+<button onclick="login()">Login with Twitter</button>
+
 
 
 
