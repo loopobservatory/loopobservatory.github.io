@@ -1,1 +1,1 @@
-![meeting.html]
+![Meeting](meeting.html)
