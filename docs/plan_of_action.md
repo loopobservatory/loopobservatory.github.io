@@ -1,7 +1,7 @@
 # Plan of Action
 
 The first step would be to design the structure to build store and disseminate the educational content 
-* [Schedule the meeting](scheduleMeeting.md) convient to your schedule
+* [Schedule the meeting](docs/scheduleMeeting.md) convient to your schedule
 
 Second step would be chart out a plan to build a website and an app which would be preferred mode of supply of educational content.
 

@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [**Statement of Objective**](/)
-	* [Plan of Action](geography/composition_of_atmosphere.md)
-* [Schedule Meeting](geography/scheduleMeeting.md)
+	* [Plan of Action](docs/plan_of_action.md)
+* [Schedule Meeting](docs/scheduleMeeting.md)
