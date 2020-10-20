@@ -1,4 +1,5 @@
-# Geography - Basic notes 
+# Statement of Objective
 
-> Covers fundamentals of geography
-> Includes quizzes, MCQs and Subjective Q/A
+To build a world class E-Learning Platform, which will leverage technology to distribute the content and to help educators to build high quality educational content
+
+ 
