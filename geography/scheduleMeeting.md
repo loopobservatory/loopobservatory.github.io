@@ -1,1 +1,1 @@
-![Meeting](meeting.html)
+![Meeting](meeting.html 'type:iframe')
