@@ -1,1 +1,1 @@
-![Meeting](meeting.html ':include :type:iframe')
+[Meeting](meeting.html ':include :type:iframe width=100% height=800px')
