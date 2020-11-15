@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [**Statement of Objective**](/)
+* [**Mission Statement**](/)
 * [Plan of Development](docs/Plan_of_Development.md)
 * [Design](docs/Design.md)
 * [Schedule Meeting](docs/scheduleMeeting.md)
