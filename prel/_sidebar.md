@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [**Mission Statement**](/)
+* [**Home**](/)
 * [Product Development](docs/Plan_of_Development.md)
 * [Design](docs/Design.md)
 * [Resources](docs/resources.md)
