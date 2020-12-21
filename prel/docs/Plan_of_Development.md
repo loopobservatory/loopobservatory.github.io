@@ -2,9 +2,23 @@
 
 # prel-reviews 
 
-```
+`
 The fundamental idea is to structure the online resources (both paid and free) and provide a plotform for their vetting through the reviews from the community of users. 
-```
+
+
+Operational todo list
+
+* Firebase Connectivity
+* Scrapping data for content
+* Adding Filters
+	* free/paid
+	* beginner/intermediary/advanced
+* Using Discuss for reviews
+* Search 
+	* on home page
+	* also along with filters in the topics page
+
+
 
 * we will start with 4 verticals for structuring the content - ordered according to priority
 	* Parents looking for Tuitions for kids below 10th standard - particularly programming for kids
