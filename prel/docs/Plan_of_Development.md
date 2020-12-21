@@ -2,7 +2,7 @@
 
 # prel-reviews 
 
-`
+
 The fundamental idea is to structure the online resources (both paid and free) and provide a plotform for their vetting through the reviews from the community of users. 
 
 
