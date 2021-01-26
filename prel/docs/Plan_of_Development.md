@@ -8,16 +8,23 @@ The fundamental idea is to structure the online resources (both paid and free) a
 
 Operational todo list
 
-* Firebase Connectivity
-* Scrapping data for content
+* Updating UI-UX
+* Curriculum page
 * Adding Filters
 	* free/paid
 	* beginner/intermediary/advanced
-* Using Discuss for reviews
-* Search 
-	* on home page
-	* also along with filters in the topics page
+* <del>Firebase Connectivity</del>
+* <del>Scrapping data for content</del>
+* <del>Using Discuss for reviews</del>
+* <del>Search<del>
 
+
+## Topics of focus
+
+* Web and App Development 
+* Basics of Computer Science
+* Maths and Physics
+* Civil Services and other Exam preparation resources
 
 
 * we will start with 4 verticals for structuring the content - ordered according to priority
@@ -26,31 +33,8 @@ Operational todo list
 	* College freshmen, looking for rights resources and guidance for curricullam 
 	* UPSC and other government exam aspirants
 
-### Programming for kids/ Online Tuitions for kids
 
-todo 
 
-- [ ] Gather data on online tutions
-- [ ] Developing UI for intuitive understanding of the reviews and comparasion with other services
-- [ ] Get People to use it
-
-### Professional looking to upgrade their skills 
-
-- [ ] Gather data on online tutions
-- [ ] Developing UI for intuitive understanding of the reviews and comparasion with other services
-- [ ] Get People to use it
-
-### College freshmen
-
-- [ ] Gather data on online tutions
-- [ ] Developing UI for intuitive understanding of the reviews and comparasion with other services
-- [ ] Get People to use it
-
-### Government Exams
-
-- [ ] Gather data on online tutions
-- [ ] Developing UI for intuitive understanding of the reviews and comparasion with other services
-- [ ] Get People to use it
 
 
 
