@@ -1,3 +1,5 @@
 # Team
 
-**Mohit Verma**  ||  **Pradeep Jangra**  ||  **Sandeep Jangra**    
+**Pradeep Jangra**
+**Mohit Verma**
+**Sandeep Jangra**    
