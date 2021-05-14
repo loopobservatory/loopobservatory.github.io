@@ -1,37 +1,21 @@
 # Plan of Development
 
-# prel-reviews 
+# KourseGraph
 
+## Product Development
+* Timeline - Sidebar transition
+* Formatting the text in the resources view
+* Make source of the resource look more prominent
+* Add some transition effect when other resource is selected on the resource page
+* Embed youtube videos on the resource page
 
-The fundamental idea is to structure the online resources (both paid and free) and provide a plotform for their vetting through the reviews from the community of users. 
+## content
+* Enrichment of content in existing timeline and resources description
+* Adding Assessment and Test
+* New Course Requests
+	* Design Pattern Course
+	* Database Course
 
-
-Operational todo list
-
-* Updating UI-UX
-* Curriculum page
-* Adding Filters
-	* free/paid
-	* beginner/intermediary/advanced
-* <del>Firebase Connectivity</del>
-* <del>Scrapping data for content</del>
-* <del>Using Discuss for reviews</del>
-* <del>Search<del>
-
-
-## Topics of focus
-
-* Web and App Development 
-* Basics of Computer Science
-* Maths and Physics
-* Civil Services and other Exam preparation resources
-
-
-* we will start with 4 verticals for structuring the content - ordered according to priority
-	* Parents looking for Tuitions for kids below 10th standard - particularly programming for kids
-	* Professionals looking to upgrade their skills - upgrad customers
-	* College freshmen, looking for rights resources and guidance for curricullam 
-	* UPSC and other government exam aspirants
 
 
 
