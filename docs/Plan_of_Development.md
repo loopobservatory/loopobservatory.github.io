@@ -20,4 +20,4 @@
 * Images permissions - prelims and mains image
 * Terms of service
 
-* 
+ 
