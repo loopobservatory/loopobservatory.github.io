@@ -16,7 +16,7 @@
 	* Design Pattern Course
 	* Database Course
 
-### admin tasks
+### Admin tasks
 * Images permissions - prelims and mains image
 * Terms of service
 
