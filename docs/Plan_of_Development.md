@@ -8,7 +8,6 @@
 * Make source of the resource look more prominent
 * Add some transition effect when other resource is selected on the resource page
 * Embed youtube videos on the resource page
-* Images permissions - prelims and mains image
 
 ### Content
 * Enrichment of content in existing timeline and resources description
@@ -16,3 +15,9 @@
 * New Course Requests
 	* Design Pattern Course
 	* Database Course
+
+### admin tasks
+* Images permissions - prelims and mains image
+* Terms of service
+
+* 
