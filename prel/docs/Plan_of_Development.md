@@ -9,7 +9,7 @@
 * Add some transition effect when other resource is selected on the resource page
 * Embed youtube videos on the resource page
 
-## content
+## Content
 * Enrichment of content in existing timeline and resources description
 * Adding Assessment and Test
 * New Course Requests
